@@ -3,6 +3,7 @@
 # https://github.com/Loei-Provincial-Court-New/pea
 # https://github.com/Loei-Provincial-Court-New/www.law.go.th
 # https://github.com/Loei-Provincial-Court-New/ws.erc.or.th
+# https://www.wikidata.org/wiki/Q23542287
 https://de-wikipedia-org.translate.goog/wiki/Loei_(Provinz)?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc
 <!-- wp:paragraph -->
 <p><a href="https://datatracker.ietf.org/doc/rfc7231/#content">Skip to main content</a></p>
