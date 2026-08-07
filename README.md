@@ -1,4 +1,303 @@
-<img width="719" height="1018" alt="7569" src="https://github.com/user-attachments/assets/77ffc521-000c-4a11-9418-94706733a335" />
+<!-- wp:image {"id":523,"sizeSlug":"large","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://js100comensitenewsview135424com.wordpress.com/wp-content/uploads/2026/08/patch_khaki_green_of_border_patrol_police6301556875532628496.jpg?w=994" alt="" class="wp-image-523"/><figcaption class="wp-element-caption">ตำรวจศาลจังหวัดเลย</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>นเรศวร 261กองกำกับการ 3</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>พันตำรวจเอก วรชัย บางยี่ขัน</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>ผู้บริหารการไฟฟ้าสาขาเลยและเชียวงคาน พันตำรวจเอกสันติ ชูเชิด ผกก.สภ.เชียงคาน รอง.ผกก.ภาคส่วน รักษาการแทน</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>พันตำรวจโทวิศิษฎ์ ทองโม้ รอง.ผกก.สภ.เชียงคาน สวป.ภาคส่วน</strong><br><strong>จ่าสิบเอกชวลิตร เวรสวัสดิ์ ผู้กอง สภ.เชียงคาน</strong><br><strong>ผู้กองภาคส่วน ตชด.246</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>จ่าสิบตรีธรรมนูญ อุปโครต สาขาเลย</strong><br><strong>จ่าสิบโทรัตน์ศาสตร์ สิทธิวงค์</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><br>กองบังคับการสนับสนุนทางอากาศ<br><a class="mw-file-description" href="https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C:Anti-terrorism_course_Badge_Royal_Thai_Police.jpg">กองบัญชาการตำรวจตระเวนชายแดน</a><br><em>เครื่องหมายหลักสูตรการต่อต้านการก่อการร้าย</em><br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>อาร์มช้างศึก ต้นสังกัดหน่วยนเรศวร 261ประจำการ18 ธันวาคม พ.ศ. 2527&nbsp;(41&nbsp;ปี)ประเทศ<img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/40px-Flag_of_Thailand.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" height="15" width="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/60px-Flag_of_Thailand.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element" /><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2">ไทย</a><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%B1%E0%B8%9A%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2">หน่วยงาน</a><a href="https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%B3%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4_(%E0%B9%84%E0%B8%97%E0%B8%A2)">สำนักงานตำรวจแห่งชาติ</a>รูปแบบ<a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88">หน่วยยุทธวิธีตำรวจ</a>บทบาท</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a class="mw-redirect" href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%8C%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8">การยุทธ์เคลื่อนที่ทางอากาศ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>กองกำลังส่งทางอากาศ</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B8%B8%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%94">การทำลายล้างวัตถุระเบิด</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การปฏิบัติการลับ</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การยุทธ์พื้นที่ระยะประชิด</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="mw-redirect" href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%81%E0%B8%9A%E0%B8%8F">การปราบปรามการก่อกบฏ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%95%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2">การต่อต้านการก่อการร้าย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ปฏิบัติการปกปิด</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%95%E0%B8%A3%E0%B8%87">การปฏิบัติภารกิจโดยตรง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>เป้าหมายที่มีค่าสูง</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99">ชิงตัวประกัน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ข่าวกรองบุคคล</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การสงครามป่า</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การบังคับใช้กฎหมาย</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การเข้าตีเจาะระยะไกล</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%82%E0%B8%B2">การสงครามภูเขา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การตีโฉบฉวย</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%95%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A7%E0%B8%99">การลาดตระเวน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9">การปฏิบัติการพิเศษ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%95%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9">การลาดตระเวนพิเศษ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A">การสงครามนอกแบบ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การสงครามในเมือง</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>บทบาทอื่น</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>ปฏิบัติการต่อต้านกองโจร</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การคุ้มกันระยะประชิด</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การค้นหา และกู้ภัยในการรบ</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ปฏิบัติการต่อต้านยาเสพติด</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การตอบโต้ภัยพิบัติ</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ผู้ตรวจการณ์หน้า</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1">ความช่วยเหลือด้านมนุษยธรรม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การรับกลับกำลังพล</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การค้นหาและกู้ภัย</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>เขตอำนาจปฏิบัติการระดับชาติขึ้นกับ<a href="https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%B3%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4_(%E0%B9%84%E0%B8%97%E0%B8%A2)">สำนักงานตำรวจแห่งชาติ</a><br /><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8">กองบังคับการสนับสนุนทางอากาศ</a><a href="https://th.wikipedia.org/wiki/%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%95%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%94%E0%B8%99">กองบัญชาการตำรวจตระเวนชายแดน</a><br /><strong>ทางยุทธการ</strong><a href="https://th.wikipedia.org/wiki/%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%95%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5">ศูนย์ปฏิบัติการต่อต้านการก่อการร้ายสากล</a><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B9%84%E0%B8%97%E0%B8%A2">กองบัญชาการกองทัพไทย</a>กองบัญชาการ<a href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B8%8A%E0%B8%B0%E0%B8%AD%E0%B8%B3">อำเภอชะอำ</a><a href="https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5">จังหวัดเพชรบุรี</a><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2">ประเทศไทย</a>โครงสร้างหน่วยกำลังปฏิบัติการ6 กองร้อยความสำคัญปฏิบัติการสำคัญ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B8%9A%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B8%A7%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2">การก่อการกำเริบคอมมิวนิสต์ในประเทศไทย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B8%9A%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B8%A7%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2_(%E0%B8%84.%E0%B8%A8._1968%E2%80%931989)">การก่อการกำเริบคอมมิวนิสต์ในประเทศมาเลเซีย (ค.ศ. 1968–1989)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%94%E0%B8%99%E0%B9%84%E0%B8%97%E0%B8%A2%E2%80%93%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%99%E0%B8%B2%E0%B8%A1">เหตุปะทะชายแดนไทย–เวียดนาม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2">สมรภูมิบ้านร่มเกล้า</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B8%B1%E0%B8%94%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%9E%E0%B8%A1%E0%B9%88%E0%B8%B2">ความขัดแย้งภายในพม่า</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%81%E0%B9%8A%E0%B8%AD%E0%B8%94'%E0%B8%AA_%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A1%E0%B8%B5%E0%B9%88%E0%B8%9A%E0%B8%B8%E0%B8%81%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B9%E0%B8%95%E0%B8%9E%E0%B8%A1%E0%B9%88%E0%B8%B2_%E0%B8%9E.%E0%B8%A8._2542_%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5_%E0%B8%9E.%E0%B8%A8._2543">เหตุการณ์ก๊อด'ส อาร์มี่บุกยึดสถานทูตพม่า พ.ศ. 2542 และโรงพยาบาลศูนย์ราชบุรี พ.ศ. 2543</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การยุทธเนิน 9631</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>สงครามยาเสพติด</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%87%E0%B8%9A%E0%B9%83%E0%B8%99%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2">ความไม่สงบในชายแดนภาคใต้ของประเทศไทย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B9%E0%B9%89%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%96%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87">ปฏิบัติการค้นหาและกู้ภัยถ้ำหลวง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%94%E0%B8%A2%E0%B8%B4%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%AA%E0%B8%B5%E0%B8%A1%E0%B8%B2_%E0%B8%9E.%E0%B8%A8._2563">เหตุกราดยิงที่จังหวัดนครราชสีมา พ.ศ. 2563</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>เว็บไซต์<a href="https://sites.google.com/view/subdivision-3/%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%81" class="external text">กก.๓ บก.สอ.บช.ตชด.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>นเรศวร 261กองกำกับการ 3<br />กองบังคับการสนับสนุนทางอากาศ<br />กองบัญชาการตำรวจตระเวนชายแดน<a href="https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C:Anti-terrorism_course_Badge_Royal_Thai_Police.jpg" class="mw-file-description"></a><br /><em>เครื่องหมายหลักสูตรการต่อต้านการก่อการร้าย</em><br /><a href="https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C:Patch_khaki_green_of_Border_Patrol_Police.svg" class="mw-file-description"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>อาร์มช้างศึก ต้นสังกัดหน่วยนเรศวร 261ประจำการ18 ธันวาคม พ.ศ. 2527&nbsp;(41&nbsp;ปี)ประเทศ<img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/40px-Flag_of_Thailand.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" height="15" width="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/60px-Flag_of_Thailand.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" class="mw-file-element" /><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2">ไทย</a><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%B1%E0%B8%9A%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2">หน่วยงาน</a><a href="https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%B3%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4_(%E0%B9%84%E0%B8%97%E0%B8%A2)">สำนักงานตำรวจแห่งชาติ</a>รูปแบบ<a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88">หน่วยยุทธวิธีตำรวจ</a>บทบาท</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a class="mw-redirect" href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%8C%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8">การยุทธ์เคลื่อนที่ทางอากาศ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>กองกำลังส่งทางอากาศ</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B8%B8%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%94">การทำลายล้างวัตถุระเบิด</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การปฏิบัติการลับ</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การยุทธ์พื้นที่ระยะประชิด</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="mw-redirect" href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%81%E0%B8%9A%E0%B8%8F">การปราบปรามการก่อกบฏ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%95%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2">การต่อต้านการก่อการร้าย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ปฏิบัติการปกปิด</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%95%E0%B8%A3%E0%B8%87">การปฏิบัติภารกิจโดยตรง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>เป้าหมายที่มีค่าสูง</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%99">ชิงตัวประกัน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ข่าวกรองบุคคล</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การสงครามป่า</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การบังคับใช้กฎหมาย</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การเข้าตีเจาะระยะไกล</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%82%E0%B8%B2">การสงครามภูเขา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การตีโฉบฉวย</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-it
 # [B38834-24-0448](https://github.com/pea-information-center?tab=overview&from=2026-07-01&to=2026-07-31)
 # https://github.com/Loei-Provincial-Court-New/demo-repository
 # https://github.com/Loei-Provincial-Court-New/pea
