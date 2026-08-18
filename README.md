@@ -1,6 +1,311 @@
 <!-- wp:image {"id":523,"sizeSlug":"large","align":"center"} -->
 <figure class="wp-block-image aligncenter size-large"><img src="https://js100comensitenewsview135424com.wordpress.com/wp-content/uploads/2026/08/patch_khaki_green_of_border_patrol_police6301556875532628496.jpg?w=994" alt="" class="wp-image-523"/><figcaption class="wp-element-caption">ตำรวจศาลจังหวัดเลย</figcaption></figure>
 <!-- /wp:image -->
+# ws.erc.or.th
+https://pea-information-center.jimdofree.com/
+# สถานีผลิตไฟฟ้าอำเภอเชียงคาน จังหวัดเลย
+<!-- wp:heading {"level":1,"className":"resulttitle"} -->
+<h1 class="wp-block-heading resulttitle"><a href="https://ipv6.bgp.he.net/net/49.237.90.0/24">49.237.90.0/24</a> จีพีอาร์เอส/3จี</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Manifest</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ลิงค์ด่วน</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"leftsidemenuitems"} -->
+<ul class="wp-block-list leftsidemenuitems"><!-- wp:list-item -->
+<li><a href="https://ipv6.bgp.he.net/">หน้าแรกชุดเครื่องมือ BGP</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://ipv6.bgp.he.net/report/prefixes">รายงานคํานําหน้า BGP</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://ipv6.bgp.he.net/report/peers">รายงานเพื่อน BGP</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://ipv6.bgp.he.net/traceroute">ซุปเปอร์เทรเซอร์รูท</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://ipv6.bgp.he.net/super-lg">กระจกมองซุปเปอร์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://ipv6.bgp.he.net/certs">ค้นหาใบรับรอง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://ipv6.bgp.he.net/report/exchanges">รายงานการแลกเปลี่ยน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://ipv6.bgp.he.net/report/bogons">เส้นทางโบกอน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://ipv6.bgp.he.net/report/world">รายงานโลก</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://ipv6.bgp.he.net/report/multi-origin-routes">เส้นทางหลายแหล่งกําเนิด</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://ipv6.bgp.he.net/report/dns">รายงาน DNS</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://ipv6.bgp.he.net/report/tophosts">รายงานโฮสต์ยอดนิยม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://ipv6.bgp.he.net/report/rpki_and_aspa">รายงาน RPKI และ ASPA</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://ipv6.bgp.he.net/report/netstats">สถิติอินเทอร์เน็ต</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://lg.he.net/">กระจกมอง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://networktools.he.net/">แอพเครื่องมือเครือข่าย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://ipv6.he.net/certification/">การรับรอง IPv6</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://bgp.he.net/ipv6-progress-report.cgi">ความคืบหน้า IPv6</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://bgp.he.net/going-native.pdf">ไปพื้นเมือง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://ipv6.bgp.he.net/super-lg/contribute/">มีส่วนร่วมข้อมูล</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://ipv6.bgp.he.net/credits/">เครดิต</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://bgp.he.net/contact/">ติดต่อเรา</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"className":"tabmenu"} -->
+<ul id="previewTabMenu" class="wp-block-list tabmenu"><!-- wp:list-item -->
+<li>ข้อมูลเครือข่าย</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ใคร</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>รดาป</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ดีเอ็นเอส</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ใบรับรอง</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ไออาร์อาร์</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>การขยายพันธุ์</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ทัศนวิสัย</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>เส้นทาง</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>เทรเซรูต</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://ipv6.bgp.he.net/images/irr_valid.png" alt="IRR Valid" title="IRR Valid"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://ipv6.bgp.he.net/images/rpki_valid.png" alt="RPKI Valid" title="ROA Signed and Valid"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://ipv6.bgp.he.net/images/flags/th.gif" alt="TH"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ประกาศโดยแหล่งกําเนิดผู้ลงทะเบียนแหล่งกําเนิดสินค้าคํานําหน้าคํานําหน้าผู้ลงทะเบียน<a href="https://ipv6.bgp.he.net/AS132618">AS132618</a>บริษัท เรียล ฟิวเจอร์ จํากัด<a href="https://ipv6.bgp.he.net/net/49.237.90.0/24">49.237.90.0/24</a>&nbsp;&nbsp;จีพีอาร์เอส/3จีการจับคู่คณะผู้แทนรีจิสทรีสถานะคํานําหน้าซีซีเอพีนิคได้รับการจัดสรร<a href="https://ipv6.bgp.he.net/net/49.237.0.0/16">49.237.0.0/16</a>ธ&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">ประกาศเกี่ยวกับนโยบาย: 15 กรกฎาคม 2026</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>นโยบายฉบับปรับปรุง</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>คุณจะมีเวลาอย่างน้อย 30 วันนับตั้งแต่วันที่ 15 กรกฎาคม 2026 ในการอัปเดตแอปให้เป็นไปตามการเปลี่ยนแปลงในนโยบายด้านล่างนี้ ดูรายละเอียดเพิ่มเติมได้ที่หน้า<a href="https://support.google.com/googleplay/android-developer/table/12921780">กำหนดเวลาการบังคับใช้นโยบาย</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>นโยบาย<a href="https://support.google.com/googleplay/android-developer/answer/17036597">เนื้อหาและฟังก์ชันการทำงานที่จำกัดอายุผู้ใช้</a>และ<a href="https://support.google.com/googleplay/android-developer/answer/17122524#child_safety">มาตรฐานความปลอดภัยของเด็ก</a>มีข้อกำหนดและข้อจำกัดใหม่สำหรับแอปแชทแบบไม่ระบุตัวตนและแอปแชทแบบสุ่มเพื่อปกป้องผู้เยาว์ให้ได้ดียิ่งขึ้น นอกจากนี้ นโยบาย<a href="https://support.google.com/googleplay/android-developer/answer/17122218#families-policy">ข้อกำหนดของนโยบายเพื่อครอบครัว</a>ยังห้ามไม่ให้แอปแชทแบบไม่ระบุตัวตนกำหนดเป้าหมายเป็นเด็กด้วย</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>นโยบาย<a href="https://support.google.com/googleplay/android-developer/answer/10208820?sjid=17577182363882827718-NC&amp;visit_id=639160341729576617-3917463334&amp;rd=1#zippy=%2Calternatives-to-common-uses">สิทธิ์เข้าถึง SMS และบันทึกการโทร</a>ของเราจะไม่อนุญาตให้ใช้การยืนยันบัญชีผ่านการโทรเป็น Use Case สำหรับสิทธิ์ <code>READ_CALL_LOG</code> อีกต่อไป หากต้องการยืนยันบัญชีอย่างปลอดภัยโดยไม่ต้องขอสิทธิ์ที่ละเอียดอ่อนของแอป ให้ใช้ <a href="https://developer.android.com/identity/digital-credentials/phone-number-verification" target="_blank" rel="noreferrer noopener">Digital Credentials API</a> แทน ไม่ว่าจะใช้โดยตรงหรือผ่านผู้ให้บริการการยืนยันที่สร้างขึ้นบน API นี้ หรือใช้ <a href="https://developer.android.com/identity/sms-retriever" target="_blank" rel="noreferrer noopener">SMS Retriever API</a> โปรดดู API ทางเลือกเพิ่มเติมใน<a href="https://developer.android.com/privacy-and-security/minimize-permission-requests#verify-phone-number" target="_blank" rel="noreferrer noopener">หน้านี้</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>หากต้องการให้เป็นไปตาม<a href="https://developer.android.com/developer-verification" target="_blank" rel="noreferrer noopener">ข้อกำหนดการยืนยันนักพัฒนาแอป Android</a> และ<a href="https://support.google.com/googleplay/android-developer/answer/17125096">ข้อกำหนดของ Play Console</a> คุณต้องลงทะเบียนแอป Google Play ใน Play Console แม้ว่าแอป 99% ใน Google Play จะได้รับการลงทะเบียนโดยอัตโนมัติ แต่คุณควรตรวจสอบ<a href="https://play.google.com/console/u/0/developers/5700313618786177705/android-developer-verification" target="_blank" rel="noreferrer noopener">หน้าแรกของ Play Console</a> และลงทะเบียนแอปที่เหลือที่คุณต้องการเผยแพร่ต่อไปเพื่อหลีกเลี่ยงการนำออกจาก Google Play ทั่วโลกและรับประกันประสบการณ์การติดตั้งของผู้ใช้ที่ราบรื่นคุณยังใช้ Play Console เพื่อลงทะเบียนแอปที่จัดจำหน่ายนอก Google Play ได้ด้วย เพื่อให้มั่นใจว่าแอปจะติดตั้งในอุปกรณ์ Android ที่ผ่านการรับรองได้</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>การชี้แจง</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>นอกจากนี้ เราได้เพิ่มการชี้แจงในบางนโยบายที่มีอยู่แล้วด้วย เนื่องจากการเปลี่ยนแปลงเหล่านี้ไม่ใช่นโยบายใหม่หรือนโยบายที่มีการปรับปรุง มาตรฐานและแนวทางปฏิบัติในการบังคับใช้จึงยังคงเหมือนเดิม</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>เรากำลังปรับและชี้แจงข้อกำหนดของนโยบาย<a href="https://support.google.com/googleplay/android-developer/answer/9876821">สินเชื่อส่วนบุคคล</a>สำหรับแอปการเบิกเงินเดือนล่วงหน้า (Earned Wage Access หรือ EWA) เพื่อให้มั่นใจว่าบริการ EWA จะยังคงรักษามาตรฐานระดับสูงด้านความโปร่งใสและการคุ้มครองความเป็นส่วนตัวของผู้ใช้เช่นเดียวกับแอปบริการทางการเงินอื่นๆ</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>เราชี้แจงว่าข้อกำหนดด้าน<a href="https://support.google.com/googleplay/android-developer/answer/10144311">ข้อมูลผู้ใช้</a>ของเรามีผลบังคับใช้กับการผสานรวม AI ของบุคคลที่สามด้วย และนักพัฒนาแอปยังคงมีหน้าที่รับผิดชอบในการตรวจสอบว่าการผสานรวมเป็นไปตามนโยบายนี้ ซึ่งรวมถึงการใช้งานแบบจำกัด การเปิดเผย และความยินยอม</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>เรามีการชี้แจงนโยบาย<a href="https://support.google.com/googleplay/android-developer/answer/9898843">การจัดประเภทเนื้อหา</a>เพื่อระบุว่าเราไม่อนุญาตให้แสดงแอปที่ไม่มีการจัดประเภทใน Google Play</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>เราให้คำแนะนำเพิ่มเติมเกี่ยวกับการเปิดเผยตำแหน่งที่แน่นอนและตำแหน่งโดยประมาณใน<a href="https://support.google.com/googleplay/android-developer/answer/10787469">ส่วนความปลอดภัยของข้อมูลใน Google Play</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>การแจ้งเตือนและข้อมูลเพิ่มเติม</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>เพื่อให้ผู้ใช้ Android และ Google Play ได้รับประสบการณ์ที่ปลอดภัย Google Play กำหนดให้แอปทั้งหมดปฏิบัติตาม<a href="https://support.google.com/googleplay/android-developer/answer/11926878">ข้อกำหนดระดับ API เป้าหมาย</a>ภายในวันที่ 31 สิงหาคม 2026 นี่คือการอัปเดตประจำปีตามปกติของเรา</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>เราได้เปิดตัว<strong>ทักษะใหม่ของ Android ที่จะช่วยคุณเกี่ยวกับนโยบายของ Google Play</strong> เพื่อช่วยให้คุณเห็นปัญหาที่อาจเกิดขึ้นก่อนที่จะส่งแอปเข้ารับการตรวจสอบ เครื่องมือแบบโอเพนซอร์สนี้เชื่อมต่อแหล่งข้อมูล LLM ในนโยบายของ Google Play เพื่อให้ผู้ช่วย AI ที่คุณต้องการสามารถประเมินโค้ดของคุณได้ภายใน IDE หรือ CLI <a href="https://github.com/android/skills/tree/main/play/play-policy-insights">อ่านเพิ่มเติม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>เราจะเปิดตัวระบบการกำหนดหมายเลขที่ได้มาตรฐานใน<a href="https://support.google.com/googleplay/android-developer/answer/9898783">นโยบาย</a>บางส่วนเพื่อให้ติดตามได้ง่ายขึ้นและมีความชัดเจนมากขึ้น คุณจะเห็นการเปลี่ยนแปลงเหล่านี้ตั้งแต่วันนี้เป็นต้นไป และจะมีการอัปเดตเพิ่มเติมในอนาคต</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>โปรดอ่านการปรับปรุงนโยบายเหล่านี้อย่างละเอียดในกรณีที่แอปของคุณได้รับผลกระทบ ดูข้อมูลเพิ่มเติมเกี่ยวกับวิธีปฏิบัติตามการเปลี่ยนแปลงเหล่านี้</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>ดู<a href="https://goo.gle/policybytes326" target="_blank" rel="noreferrer noopener">วิดีโอ PolicyBytes</a> นี้ซึ่งมีอยู่ใน<a href="https://support.google.com/googleplay/android-developer/answer/16373081">ฮับ PolicyBytes</a> ของเราด้วย</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ลงทะเบียนเข้าร่วม<a href="https://developersonair.withgoogle.com/google-play-policy-webinars" target="_blank" rel="noreferrer noopener">การสัมมนาผ่านเว็บเกี่ยวกับนโยบาย</a>ที่จัดขึ้นในหลายภูมิภาค ส่งคำถามของคุณล่วงหน้า</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ในการปรับปรุงนโยบายครั้งนี้ Play Academy ได้อัปเดตหลักสูตรที่มีอยู่ 2 หลักสูตรและเพิ่มแหล่งข้อมูลวิดีโอใหม่เพื่อช่วยให้นักพัฒนาแอปเข้าใจข้อกำหนดด้านนโยบายที่สำคัญและแนวทางปฏิบัติแนะนำได้ดียิ่งขึ้น ดังนี้<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://playacademy.exceedlms.com/student/activity/1830979-comply-with-google-play-s-age-restricted-content-and-functionality-policy" target="_blank" rel="noreferrer noopener">ปฏิบัติตามนโยบายเนื้อหาและฟังก์ชันการทำงานที่จำกัดอายุผู้ใช้ของ Google Play</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://playacademy.exceedlms.com/student/activity/10796-get-started-with-your-google-play-developer-account" target="_blank" rel="noreferrer noopener">เริ่มต้นใช้งานบัญชีนักพัฒนาแอป Google Play</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://playacademy.exceedlms.com/student/activity/1961002-build-user-trust-with-an-accurate-privacy-policy" target="_blank" rel="noreferrer noopener">วิดีโอใหม่ของ Play Academy เกี่ยวกับแนวทางปฏิบัติแนะนำด้านนโยบายความเป็นส่วนตัว</a>เพื่อช่วยเหลือนักพัฒนาแอป</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ถามคำถามหรือแชร์แนวทางปฏิบัติแนะนำกับเพื่อนนักพัฒนาแอปใน<a href="https://support.google.com/googleplay/android-developer/thread/450828050/policy-updates-announced-july-15-2026">ชุมชนความช่วยเหลือสำหรับนักพัฒนาแอป Google Play</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+<!-- wp:paragraph -->
+<p><img src="https://www.egat.co.th/home/wp-content/uploads/2023/04/egat_5_business_05.jpg" alt="" width="1440" height="960" class="kt-info-box-image wp-image-25541" srcset="https://www.egat.co.th/home/wp-content/uploads/2023/04/egat_5_business_05.jpg 1440w, https://www.egat.co.th/home/wp-content/uploads/2023/04/egat_5_business_05-300x200.jpg 300w, https://www.egat.co.th/home/wp-content/uploads/2023/04/egat_5_business_05-1024x683.jpg 1024w, https://www.egat.co.th/home/wp-content/uploads/2023/04/egat_5_business_05-768x512.jpg 768w, https://www.egat.co.th/home/wp-content/uploads/2023/04/egat_5_business_05-1200x800.jpg 1200w" /><strong>ธุรกิจนวัตกรรมวัตถุพลอยได้</strong>กฟผ. ได้ดำเนินการธุรกิจนวัตกรรมวัตถุพลอยได้อย่างต่อเนื่องและสอดคล้องกับแผนยุทธศาสตร์เศรษฐกิจหมุนเวียน (Circular Economy) เพื่อเปลี่ยนผ่านสู่การเป็นองค์การนวัตกรรมด้านเศรษฐกิจหมุนเวียนอย่างเต็มรูปแบบ และขับเคลื่อนประเทศสู่ความเป็นกลางทางคาร์บอน โดยส่งเสริมการใช้ทรัพยากรอย่างคุ้มค่าและเกิดประโยชน์สูงสุด ภายใต้แนวคิด “Zero Waste to Landfill” ด้วยการนำวัตถุพลอยได้จากกระบวนการผลิตกระแสไฟฟ้าของโรงไฟฟ้าแม่เมาะและวัตถุพลอยได้จากการทำเหมืองมาพัฒนาและใช้ประโยชน์อย่างสร้างสรรค์ เป็นนวัตกรรมเพื่อความยั่งยืน (Sustainnovation) ได้แก่&nbsp;<strong>เถ้าลอยลิกไนต์</strong>&nbsp;สามารถทดแทนปูนซีเมนต์ในการก่อสร้าง ซึ่งช่วยลดการปล่อยก๊าซคาร์บอนไดออกไซด์ได้ 738,000 ตัน เทียบเท่ากับการปลูกต้นไม้ 61 ล้านต้น อีกทั้ง<strong>ยิปซัมสังเคราะห์</strong>ที่สามารถนำไปใช้ผลิตปูนซีเมนต์ ไฟเบอร์ซีเมนต์ ไม้เทียม และวัสดุปรับปรุงดินธรรมชาติ และ<strong>ฮิวมิค</strong>&nbsp;(EGAT Humic) วัตถุพลอยได้จากการทำเหมืองแม่เมาะช่วยเพิ่มผลผลิตและธาตุอาหารให้ดิน ลดต้นทุนให้เกษตรกร สนับสนุนการเกษตรคาร์บอนต่ำและสร้างความยั่งยืนให้กับภาคเกษตรกรรม</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"wp-block-paragraph"} -->
+<p class="wp-block-paragraph">กฟผ. ยังมุ่งเน้นการพัฒนานวัตกรรมเพื่อนำวัตถุพลอยได้จากการผลิตไฟฟ้าและการทำเหมืองไปต่อยอดเป็นผลิตภัณฑ์ โดยร่วมมือกับสถาบันการศึกษาชั้นนำในประเทศ และผู้เชี่ยวชาญในสาขาที่เกี่ยวข้อง ซึ่งในปี 2568 มี 6 โครงการ ดังนี้<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. การออกแบบอััตราส่่วนผสม Alkali-activated Fly Ash คอนกรีีต<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. การพััฒนาผลิิตภััณฑ์์จีีโอโพลิิเมอร์์ คอนกรีีตพรุุน จากเถ้้าลอยแคลเซีียมสููงที่่ช่่วยดููดซับก๊๊าซคาร์์บอนไดออกไซด์์<br />(CO<sub>2</sub>) จากก๊๊าซเผาไหม้้ (Flue Gas) ของโรงไฟฟ้้าแม่่เมาะ<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. การเพิ่่มมููลค่ายิิปซััมสัังเคราะห์์ด้้วยเทคโนโลยีีการดัักจัับใช้้ประโยชน์์ และกัักเก็็บคาร์์บอน<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. โครงการศึึกษาความเหมาะสมโรงเก็็บยิปซััมสัังเคราะห์์<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. การใช้้ประโยชน์์จากก๊๊าซไอเสีียมาปรัับปรุุงคุุณสมบััติิเถ้้าหนััก เพื่อลดความชื้น ดููดซับก๊๊าซคาร์์บอนไดออกไซด์์ และนำไปใช้้ประโยชน์์เชิิงพาณิิชย์์<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6. แนวทางการใช้้สารปรัับปรุุงดิินกรดฮิวมิค กฟผ. เพื่อเพิ่่มคุุณภาพผลผลิิตพืืชเศรษฐกิิจ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><img src="https://www.egat.co.th/home/wp-content/uploads/2024/04/432998279_824972949671417_6082741784377826282_n.jpg" alt="" width="1500" height="1500" class="kt-info-box-image wp-image-32129" srcset="https://www.egat.co.th/home/wp-content/uploads/2024/04/432998279_824972949671417_6082741784377826282_n.jpg 1500w, https://www.egat.co.th/home/wp-content/uploads/2024/04/432998279_824972949671417_6082741784377826282_n-300x300.jpg 300w, https://www.egat.co.th/home/wp-content/uploads/2024/04/432998279_824972949671417_6082741784377826282_n-1024x1024.jpg 1024w, https://www.egat.co.th/home/wp-content/uploads/2024/04/432998279_824972949671417_6082741784377826282_n-150x150.jpg 150w, https://www.egat.co.th/home/wp-content/uploads/2024/04/432998279_824972949671417_6082741784377826282_n-768x768.jpg 768w, https://www.egat.co.th/home/wp-content/uploads/2024/04/432998279_824972949671417_6082741784377826282_n-600x600.jpg 600w" /><strong>ธุรกิจโซลูชันพลังงานไฟฟ้า (EGAT Smart Energy Solutions)</strong>ธุรกิจโซลูชันพลังงานไฟฟ้ามุ่งเน้นการต่อยอดความเชี่ยวชาญของ กฟผ. ในอุตสาหกรรมพลังงานที่สั่งสมมากกว่า 50 ปี เพื่อพัฒนาและนำเสนอผลิตภัณฑ์และบริการด้านการบริหารจัดการพลังงานอย่างครบวงจร ครอบคลุมตั้งแต่การศึกษาความเป็นไปได้และความคุ้มค่าของโครงการ การออกแบบ การติดตั้ง การขอใบอนุญาต ตลอดจนการบำรุงรักษา โดยให้ความสำคัญกัับการส่่งเสริมการใช้้พลัังงานหมุุนเวีียน พลัังงานสะอาด และนวััตกรรมด้้านพลัังงานที่่เกี่่ยวข้อง เช่่น ระบบผลิิตไฟฟ้าพลัังงานแสงอาทิิตย์์ และระบบกัักเก็็บพลัังงานไฟฟ้้า (Energy Storage System: ESS) ควบคู่่กับการประยุุกต์์ใช้้แพลตฟอร์์มการบริิหารจััดการพลัังงานและระบบบริิหารจััดการงานบำรุุงรัักษา เพื่อยกระดัับประสิิทธิิภาพการใช้้พลัังงานและตอบสนองความต้้องการของภาคธุุรกิิจและสัังคมไทยอย่่างยั่งยืืน<br /><br />กฟผ. ได้ดำเนินโครงการบริหารจัดการพลังงานร่วมกับหน่วยงานภาครัฐอย่างต่อเนื่อง เช่น การรถไฟฟ้าขนส่งมวลชนแห่งประเทศไทย และบรรษัทประกันสินเชื่ออุตสาหกรรมขนาดย่อม เพื่อผลักดันการมุ่งสู่เป้าหมาย Carbon Neutrality ของประเทศ พร้อมทั้งสนับสนุนการพัฒนาโครงการ Smart Campus ด้านพลังงานสำหรับโรงเรียน โดยติดตั้งระบบผลิตไฟฟ้าพลังงานแสงอาทิตย์ในพื้นที่ เพื่อลดค่าใช้จ่ายของหน่วยงานและปลูกฝังให้เยาวชนเข้าใจการอนุรักษ์พลังงานและสิ่งแวดล้อมอย่างยั่งยืน<br /><br />นอกจากนี้ กฟผ. ยังได้พัฒนารูปแบบการให้บริการใหม่ เพื่อตอบสนองความต้องการของภาคเอกชน ครอบคลุมทั้งกลุ่มโรงแรม โรงงาน ร้านอาหาร และผู้ใช้พลังงานที่ต้องการใช้พลังงานสะอาดและมีประสิทธิภาพ พร้อมทั้งลดต้นทุนในการดำเนินธุรกิจ<br /><br />กฟผ. ยังได้จัดกิจกรรมความร่วมมือกับลูกค้าและพันธมิตรทางธุรกิจในการส่งเสริม Smart Energy Solutions เช่น ธนาคารออมสิน และสมาคมหอการค้าไทย โดยมุ่งเน้นให้ความรู้ด้านการบริหารจัดการพลังงานเพื่อเพิ่มประสิทธิภาพการใช้พลังงาน ลดต้นทุนการดำเนินงาน และสนับสนุนการเปลี่ยนผ่านสู่การใช้พลังงานสะอาดอย่างยั่งยืน</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><img src="https://www.egat.co.th/home/wp-content/uploads/2024/04/303998894_495809849213422_7858129941624773280_n.jpg" alt="" width="2460" height="936" class="kt-info-box-image wp-image-32127" srcset="https://www.egat.co.th/home/wp-content/uploads/2024/04/303998894_495809849213422_7858129941624773280_n.jpg 2460w, https://www.egat.co.th/home/wp-content/uploads/2024/04/303998894_495809849213422_7858129941624773280_n-300x114.jpg 300w, https://www.egat.co.th/home/wp-content/uploads/2024/04/303998894_495809849213422_7858129941624773280_n-1024x390.jpg 1024w, https://www.egat.co.th/home/wp-content/uploads/2024/04/303998894_495809849213422_7858129941624773280_n-768x292.jpg 768w, https://www.egat.co.th/home/wp-content/uploads/2024/04/303998894_495809849213422_7858129941624773280_n-1536x584.jpg 1536w, https://www.egat.co.th/home/wp-content/uploads/2024/04/303998894_495809849213422_7858129941624773280_n-2048x779.jpg 2048w" /><strong>ธุรกิจโซลูชันยานยนต์ไฟฟ้า (EGAT EV Business Solutions)</strong>ธุรกิจโซลูชันยานยนต์ไฟฟ้าดำเนินการตามยุทธศาสตร์การมุ่งสู่สังคมคาร์บอนต่ำ เพื่อส่งเสริมการเปลี่ยนผ่านสู่การใช้ยานยนต์ไฟฟ้า โดยเน้นเสริมสร้างความแข็งแกร่งและครอบคลุมให้กับระบบนิเวศยานยนต์ไฟฟ้า (EV Ecosystem) ของประเทศแบบครบวงจร กฟผ. สนับสนุนและร่วมพัฒนาโครงสร้างพื้นฐานด้านการอัดประจุไฟฟ้า (EV Charging Infrastructure) ผ่านการให้บริการสถานีอัดประจุไฟฟ้า การให้บริการแอปพลิเคชันยานยนต์ไฟฟ้า และระบบบริหารจัดการสถานีอัดประจุไฟฟ้า<br /><br />ในปี 2568 ธุรกิจโซลูชันยานยนต์ไฟฟ้า ได้พัฒนาและส่งมอบบริการ ดังนี้<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. ขยายการให้บริการสถานีอัดประจุไฟฟ้า “EleX by EGAT” ทั่วประเทศ รวมทั้งสิ้น 305 สถานี ทั้งที่ กฟผ. ดำเนินการเอง และร่วมกับพันธมิตร เช่น สถานีให้บริการน้ำมัน PT เครือสหพัฒน์ บริษัท โฮม โปรดักส์ เซ็นเตอร์ จำกัด (มหาชน) บริษัท บีเอ็มดับเบิลยู (ประเทศไทย) จำกัด อาคารสาธรธานี และบริษัท เซ็นทรัลพัฒนา จำกัด (มหาชน) เป็นต้น นอกจากนี้ยังได้เริ่มพัฒนาสถานีขนาดใหญ่ (EV Station Hub) เพื่อรองรับลูกค้าให้มากขึ้นในอนาคต ได้แก่ สถานีศูนย์การเรียนรู้ กฟผ. ทับสะแก จ.ประจวบคีรีขันธ์ สถานี EleX by EGAT PT นครชัยศรี 11 และสถานี PT GIGA EV ลาดพร้าว-วังหิน เป็นต้น<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. ให้บริการแอปพลิเคชัน “EleXA” เพื่ออำนวยความสะดวกแก่ผู้ใช้ยานยนต์ไฟฟ้า ในการค้นหาและจองใช้งานสถานีอัดประจุไฟฟ้า สั่งชาร์จ ชำระค่าบริการ รวมถึงให้บริการอื่น ๆ เพิ่มเติม เช่น วางแผนการเดินทางเชื่อมโยงโครงข่ายแอปพลิเคชันร่วมกับสถานีชาร์จแบรนด์อื่น ๆ และขยายการให้บริการแอปพลิเคชันแก่สถานีชาร์จในเครือข่ายภายใต้ชื่อ “EleXA NETWORK” กว่า 450 สถานี<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. ให้บริการระบบบริหารจัดการสถานีอัดประจุไฟฟ้า “BackEN EV” ซึ่งเป็นระบบที่สนับสนุนภาคเอกชนและนักลงทุนในการเปิดสถานีอัดประจุไฟฟ้าเชิงพาณิชย์ให้สามารถดำเนินการและดูแลสถานีอัดประจุไฟฟ้าได้อย่างสะดวก รวดเร็ว โดยยังเปิดรับและแต่งตั้งตัวแทนจำหน่ายระบบบริหารจัดการสถานีอัดประจุไฟฟ้า BackEN EV อย่างเป็นทางการอีกด้วย<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. ให้บริการครบวงจร (EGAT EV Total Solution) ซึ่งประกอบด้วยการให้บริการสำรวจพื้นที่ ให้คำปรึกษา ออกแบบวางผัง ติดตั้งสถานีอัดประจุไฟฟ้า บริหารจัดการสถานี และให้บริการ Customer Service แก่ลูกค้าผู้ใช้ยานยนต์ไฟฟ้า<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5. ให้บริการกลุ่มธุรกิจ EV Experts ซึ่งประกอบด้วยการให้ความรู้วิชาการและเทคนิคผ่าน EGAT EV Academy การรับรองคุณวุฒิวิชาชีพช่างเทคนิคสถานีอัดประจุไฟฟ้า ซอฟต์แวร์ระบบบริหารการบำรุงรักษาสถานีอัดประจุไฟฟ้า (iMPS) และการให้บริการทางด้านการทดสอบทางไฟฟ้าและความปลอดภัยต่างๆ ซึ่งให้การรับรองโดย กฟผ.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"ultp-heading-inner"} -->
+<h2 class="wp-block-heading ultp-heading-inner">การดำเนินงานของบริษัทในกลุ่ม กฟผ.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"wp-block-paragraph"} -->
+<p class="wp-block-paragraph">การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย (กฟผ.) ได้ลงทุนเพื่อประกอบธุรกิจด้านการผลิตไฟฟ้าและธุรกิจที่เกี่ยวเนื่อง โดยมีบริษัทในกลุ่ม กฟผ.จำนวน 8 บริษัท</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4,"className":"wp-block-heading"} -->
+<h4 class="wp-block-heading">สัดส่วนการถือหุ้นในบริษัทในกลุ่ม กฟผ.</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>ชื่อบริษัท</strong><strong>ชื่อย่อ</strong><strong>ทุนจดทะเบียน</strong><br /><strong>(ล้านบาท)</strong><strong>สัดส่วนการถือหุ้น</strong><br /><strong>(ร้อยละ)</strong><strong>สถานะ</strong>บริษัท ราช กรุ๊ป จำกัด (มหาชน)RATCH22,192.345บริษัทย่อยบริษัท กฟผ. อินเตอร์เนชั่นแนล จำกัดEGATi12,197.499.99บริษัทย่อยบริษัท อีแกท ไดมอนด์ เซอร์วิส จำกัดEDS62345บริษัทย่อยบริษัท ผลิตไฟฟ้า จำกัด (มหาชน)EGCO5,30025.41บริษัทร่วมบริษัท ผลิตไฟฟ้าและน้ำเย็น จำกัดDCAP1,67035กิจการร่วมค้าบริษัท อินโนพาวเวอร์ จำกัดINNOPOWER1,90040กิจการร่วมค้าบริษัท อินโนสเปซ (ประเทศไทย) จำกัดInnoSpace835.0111.98เงินลงทุนบริษัท พีอี แอลเอ็นจี จำกัดPE LNG28,779.2950กิจการร่วมค้า</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"has-text-align-right has-black-color has-text-color has-small-font-size wp-block-paragraph"} -->
+<p class="has-text-align-right has-black-color has-text-color has-small-font-size wp-block-paragraph"><em>ปรับปรุงข้อมูล ณ วันที่ 27 เม.ย. 2569</em></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center"><strong>นเรศวร 261กองกำกับการ 3</strong></p>
