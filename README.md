@@ -1,3 +1,142 @@
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.iana.org/"><img src="https://www.iana.org/static/img/iana-logo-header.426b3ac01d35.svg" alt="Homepage"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://www.iana.org/domains">Domains</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.iana.org/protocols">Protocols</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.iana.org/numbers">Numbers</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.iana.org/about">About</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"ordered":true,"className":"breadcrumb"} -->
+<ol class="wp-block-list breadcrumb"><!-- wp:list-item -->
+<li><a href="https://www.iana.org/help">Instructions and Guides</a></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading" id="example-domains">Example Domains</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>As described in&nbsp;<a href="https://www.iana.org/go/rfc2606">RFC 2606</a>&nbsp;and&nbsp;<a href="https://www.iana.org/go/rfc6761">RFC 6761</a>, a number of domains such as example.com and example.org are maintained for documentation purposes. These domains may be used as illustrative examples in documents without prior coordination with us. They are not available for registration or transfer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We provide a web service on the example domain hosts to provide basic information on the purpose of the domain. These web services are provided as best effort, but are not designed to support production applications. While incidental traffic for incorrectly configured applications is expected, please do not design applications that require the example domains to have operating HTTP service.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="further-reading">Further Reading</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://www.iana.org/domains/reserved">IANA-managed Reserved Domains</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Last revised&nbsp;9 years ago.<a href="https://www.iana.org/domains">Domain&nbsp;Names</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://www.iana.org/domains/root">Root Zone Registry</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.iana.org/domains/int">.INT Registry</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.iana.org/domains/arpa">.ARPA Registry</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.iana.org/domains/idn-tables">IDN Repository</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.iana.org/numbers">Number&nbsp;Resources</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://www.iana.org/numbers/registries">Number Registries</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.iana.org/numbers/allocations/">RIR Allocation Data</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.iana.org/help/abuse">Abuse Information</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.iana.org/protocols">Protocols</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://www.iana.org/protocols">Protocol Registries</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.iana.org/time-zones">Time Zone Database</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.iana.org/about">About&nbsp;Us</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://www.iana.org/news">News</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.iana.org/performance">Performance</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.iana.org/about/organization">The Organization</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.iana.org/archive">Archive</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.iana.org/contact">Contact Us</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>The IANA functions coordinate the Internet’s globally unique identifiers, and are provided by&nbsp;<a href="https://pti.icann.org/">Public Technical Identifiers</a>, an affiliate of&nbsp;<a href="https://www.icann.org/">ICANN</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
 <div class="top" style="padding: 0ex; margin: 0px 0px 4ex; color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><div class="lmenu" style="float: left; width: 192.797px; background: rgb(221, 221, 255);"><ul style="list-style-type: none; margin-top: 0px;"><li style="margin-left: -1em;"><a href="https://admin.pci-ids.ucw.cz/mods/PC/168c/002b?confirm=7225e1dfcc768a442d0845eed8bb6999?email=royal_thai_police_loei@outlook.co.th?action=newitem">Add item</a></li><li style="margin-left: -1em;"><a href="https://admin.pci-ids.ucw.cz/mods/PC/168c/002b?confirm=7225e1dfcc768a442d0845eed8bb6999?email=royal_thai_police_loei@outlook.co.th?action=newhistory">Discuss</a></li><li style="margin-left: -1em;"><a href="https://admin.pci-ids.ucw.cz/mods/PC/168c/002b?confirm=7225e1dfcc768a442d0845eed8bb6999?email=royal_thai_police_loei@outlook.co.th?action=help?help=list">Help</a></li><li style="margin-left: -1em;"><a href="https://admin.pci-ids.ucw.cz/mods/PC/168c/002b?confirm=7225e1dfcc768a442d0845eed8bb6999?email=royal_thai_police_loei@outlook.co.th?action=help?help=pci">ID syntax</a></li></ul></div><div class="rmenu" style="float: right; text-align: right; width: 192.797px; padding-right: 1em; margin: 0px; background: rgb(221, 221, 255);"><ul style="list-style-type: none; margin-top: 0px;"><li style="margin-left: -1em;"><a href="https://admin.pci-ids.ucw.cz/mods/PC/168c/002b?email=royal_thai_police_loei@outlook.co.th?confirm=7225e1dfcc768a442d0845eed8bb6999?action=logout">Log out (royal_thai_police_loei@outlook.co.th)</a></li><li style="margin-left: -1em;"><a href="https://admin.pci-ids.ucw.cz/mods/PC/168c/002b?email=royal_thai_police_loei@outlook.co.th?confirm=7225e1dfcc768a442d0845eed8bb6999?action=profile">Profile</a></li><li style="margin-left: -1em;"><a href="https://admin.pci-ids.ucw.cz/mods/PC/168c/002b?email=royal_thai_police_loei@outlook.co.th?confirm=7225e1dfcc768a442d0845eed8bb6999?action=notifications">Notifications</a></li></ul></div><div class="bluesquare" style="position: absolute; left: 196px; top: 1ex; width: 588px; background-color: rgb(76, 59, 255); color: rgb(255, 250, 69); border: 1px solid blue;"><h1 style="text-align: center; margin: 0.5ex 0px 0px;">The PCI ID Repository</h1><p class="home" style="margin: 0px 0px 1ex; text-align: center;">The home of the<span> </span><code>pci.ids</code><span> </span>file</p></div><div class="clear" style="clear: both;"></div></div><div class="path" style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><p><a href="https://admin.pci-ids.ucw.cz/">Main</a><span> </span>-&gt;<span> </span><a href="https://admin.pci-ids.ucw.cz/read/PC">PCI Devices</a><span> </span>-&gt;<span> </span><a href="https://admin.pci-ids.ucw.cz/read/PC/168c">Vendor 168c</a><span> </span>-&gt;<span> </span><strong>Device 168c:002b</strong></p></div><div class="name" style="font-weight: bold; color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><p>Name: AR9285 Wireless Network Adapter (PCI-Express)</p></div><div class="discussion" style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><h2>Discussion</h2><div class="main-history" style="background: rgb(221, 255, 221);"><p class="itemname" style="font-weight: bold; padding-left: 5px; padding-right: 5px;">Name: AR9285 Wireless Network Adapter (PCI-Express)</p><p class="discussion-text" style="padding-left: 5px; padding-right: 5px;">002a should probably be called AR9280 instead of AR928x</p><p class="author" style="font-style: italic; color: rgb(68, 68, 68); padding-left: 5px; padding-right: 5px;">woodys</p><p class="time" style="font-style: italic; color: rgb(68, 68, 68); padding-left: 5px; padding-right: 5px;">2008-12-05 17:04:46</p></div><p><a href="https://admin.pci-ids.ucw.cz/read/PC/168c/002b?confirm=7225e1dfcc768a442d0845eed8bb6999?email=royal_thai_police_loei@outlook.co.th?action=newhistory">Discuss</a></p></div><h2 style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">Subsystems</h2>
 Id | Name | Note
 -- | -- | --
